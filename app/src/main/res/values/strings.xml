@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CooknetTech</string>
+<string name="facebook_app_id">1579554775627624</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login_into_your_account">Login Into Your Account</string>
+    <string name="sign_in_with">Sign In With</string>
+    <string name="new_here_sign_uo">New Here ? Sign Up</string>
+    <string name="login_activity_lable">Cooknet Login</string>
+</resources>

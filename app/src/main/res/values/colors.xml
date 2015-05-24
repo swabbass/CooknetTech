@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="login_color">#c95a5a</color>
+    <color name="login_color_ripple">#c70a5a</color>
+    <color name="white">#fff</color>
+    <color name="login_social_color">#76d4d9</color>
+</resources>
